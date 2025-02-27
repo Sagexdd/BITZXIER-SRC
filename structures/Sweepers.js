@@ -2,7 +2,7 @@ const { SnowflakeUtil, MessageEmbed, WebhookClient } = require('discord.js')
 const { isMaster } = require('cluster')
 
 const memoryLogger = new WebhookClient({
-    url: 'https://discord.com/api/webhooks/1217308163016233103/P75IMICLgYQYcSL4bYHaBggcyZrBZqimz39r5RLRPpVJwAShA2bg0dNaun1uoLCpdpU3'
+    url: 'https://discord.com/api/webhooks/1343426399133765754/zaj4_Na2wz-dy57OdPNSGF5lXp3yJaU32mVJDWv-Hrp5AVNehnh3knl2ZCLQ7B2Zz9gh'
 })
 
 const THRESHOLD = 60
